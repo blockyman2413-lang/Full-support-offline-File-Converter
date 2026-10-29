@@ -1,0 +1,53 @@
+PASS TXT to DOCX
+PASS TXT to PPTX
+PASS TXT to PDF
+PASS TXT to RTF to TXT
+PASS TXT to HTML escapes markup
+PASS .docx to .pdf without Office
+PASS .docx to .pptx without Office
+PASS .pptx to .pdf without Office
+PASS .pptx to .docx without Office
+PASS .pdf to .docx without Office
+PASS .pdf to .pptx without Office
+PASS PDF to page images
+PASS PNG to .jpg
+PASS PNG to .bmp
+PASS PNG to .gif
+PASS PNG to .tiff
+PASS PNG to .ico
+PASS PNG to .webp
+PASS PNG to .pdf
+PASS JPEG transparency becomes white
+PASS Multipage PDF to images and slides
+PASS Scanned PDF text rejection and Word image preservation
+PASS CSV to .tsv and back
+PASS CSV to .json and back
+PASS CSV to .xml and back
+PASS Reject nested JSON
+PASS Reject malformed CSV
+PASS ZIP package and extract
+PASS Reject ZIP traversal
+PASS WAV to .mp3 and decode
+PASS WAV to .flac and decode
+PASS WAV to .aac and decode
+PASS WAV to .m4a and decode
+PASS WAV to .ogg and decode
+PASS WAV to .opus and decode
+PASS WAV to .wma and decode
+PASS WAV to .aiff and decode
+PASS MP4 to .mkv and decode
+PASS MP4 to .avi and decode
+PASS MP4 to .mov and decode
+PASS MP4 to .webm and decode
+PASS MP4 to .wmv and decode
+PASS MP4 to .flv and decode
+PASS MP4 to .m4v and decode
+PASS MP4 to .3gp and decode
+PASS Video to audio
+PASS Matroska to MP4
+PASS SRT to .vtt and back
+PASS SRT to .ass and back
+PASS SRT to .ssa and back
+PASS Unsupported pairs rejected
+PASS Duplicate names and source preservation
+RESULT: 52 passed, 0 failed

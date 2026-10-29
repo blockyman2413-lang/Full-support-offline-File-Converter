@@ -1,0 +1,19 @@
+PASS .docx → .pptx: C:\Users\Rian\Desktop\RianFile\Source\test-results\docx-to-pptx\sample (1).pptx
+PASS .docx → .pdf: C:\Users\Rian\Desktop\RianFile\Source\test-results\docx-to-pdf\sample (1).pdf
+PASS .pptx → .docx: C:\Users\Rian\Desktop\RianFile\Source\test-results\pptx-to-docx\sample (1).docx
+PASS .pptx → .pdf: C:\Users\Rian\Desktop\RianFile\Source\test-results\pptx-to-pdf\sample (1).pdf
+PASS .pdf → .docx: C:\Users\Rian\Desktop\RianFile\Source\test-results\pdf-to-docx\sample (1).docx
+PASS .pdf → .pptx: C:\Users\Rian\Desktop\RianFile\Source\test-results\pdf-to-pptx\sample (1).pptx
+PASS source hashes unchanged
+PASS duplicate renaming
+PASS duplicate rejection
+PASS corrupted document
+PASS unsupported format
+PASS missing input
+PASS missing conversion engine
+PASS bundled PDF engine needs no external renderer
+PASS invalid output directory
+PASS mixed image/audio UI batch; incompatible file skipped; output list filtered; progress 1/1
+PASS UI batch continues after failure; progress 3/3; UI timer ticks: 20
+ALL CHECKS PASSED
+PASS timeout: no output published; worker and engine cleaned up
